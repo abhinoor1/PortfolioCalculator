@@ -1,5 +1,40 @@
 # PortfolioCalculator
 
+--- Necessary Installs for 'stockDriver.py' ---
+ 
+ -> Install 'alpha_vantage'
+    -> To install, run: pip install alpha_vantage
+    -> This is the Stocks API
+ -> Install 'pandas'
+    -> To install, run: pip install pandas
+ -> Install 'pandas_datareader'
+    -> To install, run: pip install pandas_datareader
+ -> Install 'numpy'
+    -> To install, run: pip install numpy
+ -> Install 'matplotlib'
+    -> To install, run: pip install matplotlib
+ -> Install 'altair'
+    -> to install, run: pip install altair
+ -> Install 'cryptocompare'
+    -> to install, run: pip install cryptocompare
+    -> This is the Cryptocurrency API
+    
+    
+--- Necessary Installs for 'portfoliocalculator.cpp' ---
+  
+  -> Install SFML Graphics
+  -> Include 'textbox.h'
+    -> All rights to Ben Bullinger, we did NOT write this code
+    -> This file is included in the Repo
+    -> Link to file information: https://termspar.wordpress.com/2019/04/11/c-sfml-textbox-and-button-classes/
+  -> Install 'button.h'
+    -> All rights to Ben Bullinger, we did NOT write this code
+    -> This file is included in the Repo
+    -> Link to file information: https://termspar.wordpress.com/2019/04/11/c-sfml-textbox-and-button-classes/
+ 
+ 
+--- Instructions for Using the UI ---
+
 To get started follow these steps:
   -> If you invest in stocks only, click the "STOCKS" button and follow the below steps
   -> If you invest in Cryptocurrencies only, click the "CRYPTO" button and follow the below steps
